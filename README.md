@@ -79,7 +79,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/anaalfarogarciaa/Codepath-iOS-Project2-3/blob/3a60ab959ec5077b5a7f7466625e06b8238935a9/flixsterpt2.gif' width='' alt='Video Walkthrough' />
 
 GIF created with EZGif (https://ezgif.com)
 
