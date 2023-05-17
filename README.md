@@ -29,8 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/anaalfarogarciaa/Codepath-iOS-Project2-3/blob/e66264e3466d756d817aebec28cf66ed8e089d66/ezgif.com-crop.gif' 
-title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/anaalfarogarciaa/Codepath-iOS-Project2-3/blob/b70c0c42bd4c57c983d562252ca797f2fabd9564/flixster.gif' width='' alt='Video Walkthrough' />
 
 GIF created with EZGif (https://ezgif.com)
 
