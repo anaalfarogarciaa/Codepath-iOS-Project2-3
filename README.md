@@ -29,7 +29,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/anaalfarogarciaa/Codepath-iOS-Project2-3/blob/e66264e3466d756d817aebec28cf66ed8e089d66/ezgif.com-crop.gif' 
+title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with EZGif (https://ezgif.com)
 
